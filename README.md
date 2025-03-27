@@ -7,7 +7,7 @@ O **Jogo da Velha Inteligente** é um sistema embarcado interativo que implement
 - **Tabuleiro 5x5** representado por LEDs endereçáveis WS2812B.
 - **Exibição interativa** das informações do jogo no display OLED SSD1306.
 - **Controle via botões físicos** para navegação e seleção de posições.
-- **Verificação automática** de vitória ou empate com alertas visuais e sonoros.
+- **Verificação automática** de vitória ou empate com alertas visuais.
 
 ## Justificativa
 O projeto visa integrar hardware e software em uma aplicação prática, permitindo aprendizado técnico e experimental sobre sistemas embarcados. Além disso, demonstra a versatilidade dos microcontroladores e seus periféricos, incentivando a criatividade e inovação no desenvolvimento de soluções tecnológicas.
