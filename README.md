@@ -49,7 +49,7 @@ Os testes mostraram que o sistema oferece uma jogabilidade intuitiva e visualmen
 ## Código-Fonte
 O código-fonte do projeto está disponível para consulta e futuras melhorias.
 
-[Repositório do Projeto](#) *(adicione o link aqui)*
+(https://github.com/PedroVenanci0/Project-RPPW.git)
 
 ---
 Desenvolvido por **Pedro Victor Venâncio dos Santos**
